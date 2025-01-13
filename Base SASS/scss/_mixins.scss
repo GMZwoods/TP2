@@ -1,0 +1,12 @@
+@mixin flex-center {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+@mixin centered {
+margin: 0 auto;
+}
+@mixin flex-menu {
+    display: flex;
+    align-items: center;
+}

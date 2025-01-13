@@ -1,0 +1,7 @@
+.main-header {
+@include flex-center;
+background-color: $primary-color;
+color: white;
+padding: 1rem;
+
+}
